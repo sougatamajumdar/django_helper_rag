@@ -29,8 +29,8 @@ An AI-powered study assistant for Django and Django REST Framework (DRF) built u
 
 ```
 rag_data/        # Generated knowledge base
-app.py           # Main RAG + Gradio app
-generate_data.py # Script to create RAG data using Ollama
+django_helper.py           # Main RAG + Gradio app
+rag_data_generate.py # Script to create RAG data using Ollama
 ```
 
 ---
